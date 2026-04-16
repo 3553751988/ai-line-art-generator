@@ -50,7 +50,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 | ![人像照片](https://img.sipingseo.com/file/ai-photo-line-art-extraction/BwwWs9wy.webp) | ![动漫线稿提取](https://img.sipingseo.com/file/ai-photo-line-art-extraction/0vSadeOG.webp) |
 
 #### 2. 建筑速写转换 (Architectural Sketch)
-精准提取结构线条与透视关系，助力设计师快速获取建筑手稿方案。
+精准提取结构线条与透视关系，助力设计师快速获取建筑手稿方案
 | 处理前 (Before) | 提取后 (After) |
 | :---: | :---: |
 | ![建筑实景](https://img.sipingseo.com/file/ai-photo-line-art-extraction/FEf2oXJs.webp) | ![建筑速写线稿](https://img.sipingseo.com/file/ai-photo-line-art-extraction/xd5qfZJk.webp) |
