@@ -78,7 +78,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 
 <details>
 <summary><strong>提取线稿的清晰度如何？</strong></summary>
-<p>AI 采用边缘增强技术，智能优化线条连贯性并消除锯齿，输出的线稿边缘锐利，最高支持 4K 级分辨率导出，满足专业印刷需求。</p>
+<p>AI 采用边缘增强技术，智能优化线条连贯性并消除锯齿，输出的线稿边缘锐利，最高支持 4K 级分辨率导出，满足专业印刷需求</p>
 </details>
 
 <details>
