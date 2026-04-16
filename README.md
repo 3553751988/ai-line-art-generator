@@ -72,7 +72,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 *   **Nano Banana Pro**: 业内最火模型，适合快速提取通用基础轮廓
 *   **Flux-Kontext**: 专注于具有手绘质感和艺术感的线条
 *   **Magic-Sketch**: 针对日系动漫线稿风格进行了专门深度强化
-*   **Z-Image-Turbo**: 针对建筑、汽车、电子产品等精确结构线条优化。
+*   **Z-Image-Turbo**: 针对建筑、汽车、电子产品等精确结构线条优化
 
 ### ❓ 常见问题 (FAQ)
 
