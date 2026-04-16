@@ -22,7 +22,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 *   **🎭 Diverse Models:** Choose from **Nano** (Fast), **Flux** (Artistic), **Magic-Sketch** (Anime), and **Z-Line** (Technical) 。
 *   **⚡ High Efficiency:** Get professional results in under 30 seconds via GPU-accelerated cloud rendering 。
 *   **🖼️ Transparent PNG Output:** Perfect for layering in Photoshop, SAI, or Procreate.
-*   **💰 100% Free:** No registration or installation required. Access premium AI sketching tools online
+*   **💰 100% Free:** No registration or installation required. Access premium AI sketching tools online 。
 
 **[➡️ Convert Your Photos to Professional Line Art for Free](https://www.sipingseo.com/zh/line-art-extract/ai-photo-line-art-extraction)**
 
