@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform that automates the process of transforming any image into professional-grade sketches. Perfect for illustrators needing base layers or designers creating vector-style assets, our AI analyzes image hierarchy and simplifies complex backgrounds to highlight core structures
+The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform that automates the process of transforming any image into professional-grade sketches. Perfect for illustrators needing base layers or designers creating vector-style assets, our AI analyzes image hierarchy and simplifies complex backgrounds to highlight core structures 。
 
 ### Key Features
 *   **✨ Intelligent Extraction:** Extract clean lines from portraits, architecture, products, and nature
