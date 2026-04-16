@@ -83,7 +83,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 
 <details>
 <summary><strong>能否处理复杂背景的照片？</strong></summary>
-<p>可以。AI 能智能识别画面层次，自动简化杂乱背景并分离主体，确保生成的线稿重点突出、结构清晰。</p>
+<p>可以。AI 能智能识别画面层次，自动简化杂乱背景并分离主体，确保生成的线稿重点突出、结构清晰</p>
 </details>
 
 <details>
