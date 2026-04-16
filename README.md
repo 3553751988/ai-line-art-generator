@@ -56,7 +56,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 | ![建筑实景](https://img.sipingseo.com/file/ai-photo-line-art-extraction/FEf2oXJs.webp) | ![建筑速写线稿](https://img.sipingseo.com/file/ai-photo-line-art-extraction/xd5qfZJk.webp) |
 
 #### 3. 产品轮廓与花卉白描 (Product & Botanical)
-提取干净的外形边缘与脉络纹理，适用于工业设计、专利附图及纹身图案创作。
+提取干净的外形边缘与脉络纹理，适用于工业设计、专利附图及纹身图案创作
 | 产品照片转轮廓 | 花卉照片转白描 |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/ai-photo-line-art-extraction/afD6z2Z6.webp" width="350"> | <img src="https://img.sipingseo.com/file/ai-photo-line-art-extraction/WWHMbAU3.webp" width="350"> |
