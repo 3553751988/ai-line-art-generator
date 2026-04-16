@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-extract/ai-photo-line-art-extraction)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-extract/ai-photo-line-art-extraction)
 
-**SPAI 图片提取线稿助理是一款专业的在线 AI 创作工具。它利用先进的边缘检测与生成式对抗网络技术，能够一键将照片转换为清晰、流畅的高质量手绘线稿。无论您需要二次元动漫描线、建筑速写、产品轮廓还是花卉白描，AI 都能精准捕捉细节并输出专业级素材。**
+**SPAI 图片提取线稿助理是一款专业的在线 AI 创作工具。它利用先进的边缘检测与生成式对抗网络技术，能够一键将照片转换为清晰、流畅的高质量手绘线稿。无论您需要二次元动漫描线、建筑速写、产品轮廓还是花卉白描，AI 都能精准捕捉细节并输出专业级素材**
 
 ## ➡️ **[立即开始图片提取线稿 | Start Extracting Line Art Now](https://www.sipingseo.com/zh/line-art-extract/ai-photo-line-art-extraction)**
 
