@@ -18,7 +18,7 @@
 The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform that automates the process of transforming any image into professional-grade sketches. Perfect for illustrators needing base layers or designers creating vector-style assets, our AI analyzes image hierarchy and simplifies complex backgrounds to highlight core structures
 
 ### Key Features
-*   **✨ Intelligent Extraction:** Extract clean lines from portraits, architecture, products, and nature.
+*   **✨ Intelligent Extraction:** Extract clean lines from portraits, architecture, products, and nature
 *   **🎭 Diverse Models:** Choose from **Nano** (Fast), **Flux** (Artistic), **Magic-Sketch** (Anime), and **Z-Line** (Technical).
 *   **⚡ High Efficiency:** Get professional results in under 30 seconds via GPU-accelerated cloud rendering.
 *   **🖼️ Transparent PNG Output:** Perfect for layering in Photoshop, SAI, or Procreate.
