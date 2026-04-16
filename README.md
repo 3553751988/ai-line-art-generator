@@ -44,7 +44,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 我们的 AI 模型可以处理多种复杂的图像题材：
 
 #### 1. 人像转动漫线稿 (Portrait to Anime)
-保留五官比例与神态，生成流畅优美的线条，是二次元创作与头像绘制的完美底稿。
+保留五官比例与神态，生成流畅优美的线条，是二次元创作与头像绘制的完美底稿
 | 处理前 (Before) | 提取后 (After) |
 | :---: | :---: |
 | ![人像照片](https://img.sipingseo.com/file/ai-photo-line-art-extraction/BwwWs9wy.webp) | ![动漫线稿提取](https://img.sipingseo.com/file/ai-photo-line-art-extraction/0vSadeOG.webp) |
