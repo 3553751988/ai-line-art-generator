@@ -66,7 +66,7 @@ The **SPAI Photo Line Art Extractor** is a high-performance AI-driven platform t
 1.  **上传图片**: 点击上传按钮，选择您需要转换的照片（支持 JPG/PNG/WebP，最大 24MB）
 2.  **选择风格**: 在提示框中输入要求。*例如：“精细动漫线稿，线条流畅”*
 3.  **配置模型**: 根据图像类型选择 `Nano`、`Flux` 或 `Magic-Sketch` 等模型
-4.  **下载成品**: 确认线稿满意后，免费下载高清透明底线稿文件。
+4.  **下载成品**: 确认线稿满意后，免费下载高清透明底线稿文件
 
 ### ⚙️ 专业的 AI 提取引擎
 *   **Nano Banana Pro**: 业内最火模型，适合快速提取通用基础轮廓。
